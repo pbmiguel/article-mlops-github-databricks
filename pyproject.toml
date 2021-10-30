@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "MLOPS Template Project - Github And Databricks"
+version = "0.0.0"
+description = "MLOPs Project Template: Integrating Github, Databricks, Docker, and Spark"
+authors=[""]
+
+[tool.poetry.dependencies]
+python = ">=3.6"
+PyGithub = "1.55"

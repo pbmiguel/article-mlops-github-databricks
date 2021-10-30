@@ -11,4 +11,4 @@
 # Next Steps
 To adapt the project to your needs start by editing the `runner.py` - which is the project entrypoint
 
-More Info Here
+More Info [Here](https://medium.com/@paulomiguelbarbosa/mlops-project-template-integrating-github-with-databricks-docker-and-spark-cca871e1e8e6?source=friends_link&sk=1e534eca4949e482255fa1967801b7ea)
